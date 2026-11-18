@@ -1,0 +1,5 @@
+print("=====================BIENVENIDO A MI TIENDA0============")
+vendedor =input("ingresa tu nombre del vendedor")
+cliente=input("ingresa el nombre delcliente")
+producto=input("ingresa el nombre del producto")
+precio=input("ingresa el precio ")

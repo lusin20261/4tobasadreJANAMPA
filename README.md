@@ -1,1 +1,1 @@
-# 4tobasadreJANAMPA
+print
